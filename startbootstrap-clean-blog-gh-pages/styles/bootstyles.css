@@ -1,0 +1,45 @@
+
+.space{
+    margin-top: 5%;
+    position: static;
+}
+.common{
+    text-align: center;
+    position: static;
+}
+
+
+
+title{
+    margin-top: auto;
+}
+
+.header{
+    height: 200px;
+    background-color: lightblue;
+    color: black;
+    line-height: 200px;
+}
+
+.chart{
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+    color: blue
+
+}
+
+.des{
+    text-align: center;
+    font-size: medium;
+
+}
+
+.link{
+    text-align: left;
+    margin-left: 20px;
+}
+
+.top{
+    text-align: center;
+}
